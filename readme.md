@@ -17,10 +17,14 @@ project uses [Meson](https://mesonbuild.com/) `0.56.0` and newer.
 
 * * *
 
-Installation of this packages wrap file should be fairly simple by doing the following:
+Using this package should be fairly simple just add the git wrap file in your subprojects
+directory and include the dependency in your project.
 
 ```console
-meson wrap install chicken.wrap
+[wrap-git]
+directory = chicken
+url = https://github.com/chicken-libraries/chicken.git
+revision = main
 ```
 
 
