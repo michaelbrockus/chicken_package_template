@@ -63,12 +63,9 @@ int main(void)
 
 ```
 
-## Contact the developer
+## Contact the developers
 
 * * *
 
-You can contact me with either of these methods.
-
--   linkedin: [michael-brockus](https://www.linkedin.com/in/michael-brockus-1009a1174/)
--   reddit: [MichaelBrockus](https://www.reddit.com/user/MichaelBrockus)
--   gmail: [michaelbrockus@gmail.com](mailto:michaelbrockus@gmail.com).
+You might want to visit the [Chicken Libraries website](https://chickenlibraries.wordpress.com/)
+for more information on the organization along with the documentation.
