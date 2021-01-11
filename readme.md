@@ -34,7 +34,7 @@ chicken = chicken_dep
 The next step should be to add the package to your Meson project:
 
 ```meson
-chicken_dep = dependency('unity')
+chicken_dep = dependency('chicken')
 
 executable('prog', files('main.c'),
     dependencies : [chicken_dep])
