@@ -25,16 +25,19 @@ directory and include the dependency in your project.
 directory = chicken
 url = https://github.com/chicken-libraries/chicken.git
 revision = main
+
+[provide]
+chicken = chicken_dep
 ```
 
 
 The next step should be to add the package to your Meson project:
 
 ```meson
-chicken = subproject('chicken')
+chicken_dep = dependency('unity')
 
 executable('prog', files('main.c'),
-    dependencies : [chicken.get_variable('chicken_dep')])
+    dependencies : [chicken_dep])
 
 ```
 
