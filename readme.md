@@ -70,5 +70,8 @@ int main(void)
 
 * * *
 
-You might want to visit the [Chicken Libraries website](https://chickenlibraries.wordpress.com/)
-for more information on the organization along with the documentation.
+You may find that I have a number of ways that you can contact
+me. All of these methods happen to be listed on my blogging platform
+[Mike's virtual office](https://michaelbrockus.home.blog/contact/).
+
+Lastly don't forget to have a cup of virtual coffee. Thanks.
